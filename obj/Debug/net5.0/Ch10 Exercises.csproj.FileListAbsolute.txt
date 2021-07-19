@@ -1,0 +1,40 @@
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\appsettings.json
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.exe
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.deps.json
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.runtimeconfig.json
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.runtimeconfig.dev.json
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.dll
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\ref\Ch10 Exercises.dll
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.pdb
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.Views.dll
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\bin\Debug\net5.0\Ch10 Exercises.Views.pdb
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.csproj.AssemblyReference.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.AssemblyInfoInputs.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.AssemblyInfo.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.csproj.CoreCompileInputs.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.RazorAssemblyInfo.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.RazorAssemblyInfo.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\staticwebassets\Ch10 Exercises.StaticWebAssets.Manifest.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\staticwebassets\Ch10 Exercises.StaticWebAssets.xml
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\scopedcss\bundle\Ch10 Exercises.styles.css
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.TagHelpers.input.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.TagHelpers.output.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.RazorCoreGenerate.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.RazorTargetAssemblyInfo.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.RazorTargetAssemblyInfo.cs
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.Views.pdb
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.dll
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\ref\Ch10 Exercises.dll
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.pdb
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.genruntimeconfig.cache
+C:\Users\pk080\source\repos\Ch10 Exercise\Ch10 Exercises\obj\Debug\net5.0\Ch10 Exercises.csproj.CopyComplete
