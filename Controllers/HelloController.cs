@@ -4,45 +4,65 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Ch10_Exercises.Controllers
+namespace Chap_10_exercise.Controllers
 {
     [Route("/helloworld")]
     public class HelloController : Controller
     {
+        // GET: /<controller>/
         [HttpGet]
-        //[Route("/helloworld")] <-- not needed anymore bc route added above
-        public IActionResult Index() 
+        //[Route("/helloworld")]
+        public IActionResult Index()
         {
-            string html = "<form method='post' action='/helloworld/welcome'>" +
-            "<input type='text' name='name' />" + "<input type='submit' value='Greet Me!' />" + "</form>";
+            string html = "<form method='post' action='/helloworld/language'>" +
+                "<input type='text' name='name' />" +
+             "<select name='language' id='lang-select'>" +
+                "<option value='English'>English</option>" +
+                "<option value='French'>French</option>" +
+                "<option value='Spanish'>Spanish</option>" + "</select>" +
+                "<input type='submit' value='Greet Me!' />" +
+                "</form>";
             return Content(html, "text/html");
         }
 
-        [HttpGet("welcome/{name?}")]
+        // GET: /<controller>/welcome
+        //[HttpGet("welcome/{name?}")]
         [HttpPost("welcome")]
-        //[Route("/helloworld/welcome")] 
-        public IActionResult Welcome(string name="World") //world is optional parameter or welome?name="Patrick"
+        public IActionResult Welcome(string name = "World")
         {
             return Content("<h1>Welcome to my app, " + name + "!</h1>", "text/html");
         }
 
-        [HttpGet]
-        public IActionResult Language()
+        [HttpPost("language")]
+        public ActionResult<string> Language(LanguageRequest request)
         {
-            string html2 = "form method='post' action='/helloworld/welcome'>" + "<input type='text' name='name' />" +
-                "<select name='Language' id='lang-select'>" +
-                "<option value='hello'>English</option>" +
-                "<option value='hola'>Spanish</option>" +
-                "<option value='Privet'>Russian</option>" +
-                "<option value='hallo'>Norwegian</option>" +
-                "<option value='marhaban'>Arabic</option>";
-                return Content(html2, "text, html");
-
+            try
+            {
+                var translation = Translate(request.Name, request.Language);
+                var markUp = "<h1>" + translation + "</h1>";
+                return Content(markUp, "text/html");
+            }
+            catch
+            {
+                return BadRequest();
+            }
         }
 
-        public IActionResult Privacy()
+        private string Translate(string name, string language)
         {
-            return View();
+            return language switch
+            {
+                "English" => "Hello, " + name,
+                "French" => "Bonjour, " + name,
+                "Spanish" => "Hola, " + name,
+                _ => throw new NotImplementedException(language),
+            };
         }
+    }
+
+    public class LanguageRequest
+    {
+        public string Name { get; set; }
+        public string Language { get; set; }
     }
 }
